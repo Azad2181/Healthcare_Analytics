@@ -13,6 +13,7 @@ This project is a data-driven healthcare analysis tool developed using Power BI,
 3.	Export summaries for reporting or further processing.
 
 This dashboard empowers healthcare institutions with data visualization to drive strategic improvements, optimize costs, and enhance patient outcomes. Future updates could include predictive analytics and real-time data integration.
+### NB: This is a confidential project so some information is hidden.
 ### Insights: 
 ![o1](https://github.com/user-attachments/assets/d8dc4e26-8662-4e7c-b3ee-dc9aaf3b78bc)
 ![o2](https://github.com/user-attachments/assets/a7ca3394-d4c5-4a50-a2bb-1600e2c38b8a)
