@@ -16,7 +16,7 @@ This dashboard empowers healthcare institutions with data visualization to drive
 ### NB: This is a confidential project so some information is hidden.
 ### Insights: 
 ![o1](https://github.com/user-attachments/assets/d8dc4e26-8662-4e7c-b3ee-dc9aaf3b78bc)
-![o2](https://github.com/user-attachments/assets/a7ca3394-d4c5-4a50-a2bb-1600e2c38b8a)
+![Screenshot 2024-12-09 152422](https://github.com/user-attachments/assets/14398fa1-c086-4330-b45b-096316e20e6f)
 ![o3](https://github.com/user-attachments/assets/fc526751-388b-435b-808f-1274b15edfae)
 ![o4](https://github.com/user-attachments/assets/55f1c549-dd1e-472c-b33e-0f4609ed4ea5)
 ![o5](https://github.com/user-attachments/assets/64d0396a-9020-4895-8b94-4b37e8b9d113)
