@@ -2,11 +2,17 @@
 This project is a data-driven healthcare analysis tool developed using Power BI, providing actionable insights into patient demographics, treatment outcomes, financial performance, and operational efficiency. It enables healthcare providers to make informed decisions and enhance service quality.
 ## Key Features:
 •	Patient Insights: Analyze demographics by gender, age, and admission types. Highlights include Female patients and Direct Admissions.
+
 •	Risk Analysis: Categorization into five risk levels, correlated with gender, age, and department.
+
 •	Financial Performance: Key metrics like total revenue, average treatment cost, and department-specific budget performance.
+
 •	Satisfaction Metrics: Comprehensive patient feedback analysis with Positive Satisfaction.
+
 •	Operational Efficiency: Tracks average waiting times and length of stay.
+
 •	Department Analysis: Revenue and performance metrics for specialties such as cardiology, psychiatry, and surgery.
+
 ## Usage:
 1.	Navigate through interactive tabs for detailed insights.
 2.	Filter data by year, department, and metrics to refine the analysis.
